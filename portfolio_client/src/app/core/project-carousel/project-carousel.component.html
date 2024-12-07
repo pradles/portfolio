@@ -1,0 +1,17 @@
+<div class="overflow-x-hidden">
+    <div class="h-[50vw] w-[180vw] bg-white rounded-[50%] fixed mt-[-45vw] ml-[-40vw] clip-top-ellipse"></div>
+  
+    <div class="w-full h-full overflow-x-hidden">
+        <div class="flex gap-[12vw] transition-all duration-[1.5s] ease-[cubic-bezier(0.25, 0, 0.75, 1)]"
+             [ngClass]="marginLeft">
+          <div *ngFor="let project of projectData; let i = index">
+            <div class="w-[65vw] aspect-video" [ngClass]="{'ml-[17.1vw]': i === 0}">
+              <img class="w-full h-full" [src]="'../../../assets/' + project.preview" [alt]="project.name">
+            </div>
+          </div>
+        </div>
+      </div>
+  
+    <div class="h-[50vw] w-[180vw] bg-white rounded-[50%] fixed mt-[-4.2vw] ml-[-40vw] clip-bottom-ellipse"></div>
+</div>
+  

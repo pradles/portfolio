@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "name": "First project",
+        "date": "7. 12. 2024",
+        "preview": "images/image1.jpg",
+        "showcase": "images/image1.jpg",
+        "description": "This is a priject I started just cuz, I had gotten some inspiration on TikTok from the user @lourruitia.ppt go check him out seems like a preety chill guy. :)",
+        "technologies": [
+            {
+                "name": "Angular",
+                "icon": "icons/angular.png"
+            },
+            {
+                "name": "Tailwind",
+                "icon": "icons/tailwing.png"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Second project",
+        "date": "7. 12. 2024",
+        "preview": "images/image2.jpg",
+        "showcase": "images/image2.jpg",
+        "description": "Lorem ipsum",
+        "technologies": [
+            {
+                "name": "Angular",
+                "icon": "icons/angular.png"
+            },
+            {
+                "name": "Tailwind",
+                "icon": "icons/tailwing.png"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Third project very",
+        "date": "7. 12. 2024",
+        "preview": "images/image3.jpg",
+        "showcase": "images/image3.jpg",
+        "description": "",
+        "technologies": [
+            {
+                "name": "Angular",
+                "icon": "icons/angular.png"
+            },
+            {
+                "name": "Tailwind",
+                "icon": "icons/tailwing.png"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "First project",
+        "date": "7. 12. 2024",
+        "preview": "images/image1.jpg",
+        "showcase": "images/image1.jpg",
+        "description": "This is a priject I started just cuz, I had gotten some inspiration on TikTok from the user @lourruitia.ppt go check him out seems like a preety chill guy. :)",
+        "technologies": [
+            {
+                "name": "Angular",
+                "icon": "icons/angular.png"
+            },
+            {
+                "name": "Tailwind",
+                "icon": "icons/tailwing.png"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Second project",
+        "date": "7. 12. 2024",
+        "preview": "images/image2.jpg",
+        "showcase": "images/image2.jpg",
+        "description": "Lorem ipsum",
+        "technologies": [
+            {
+                "name": "Angular",
+                "icon": "icons/angular.png"
+            },
+            {
+                "name": "Tailwind",
+                "icon": "icons/tailwing.png"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Third project very",
+        "date": "7. 12. 2024",
+        "preview": "images/image3.jpg",
+        "showcase": "images/image3.jpg",
+        "description": "",
+        "technologies": [
+            {
+                "name": "Angular",
+                "icon": "icons/angular.png"
+            },
+            {
+                "name": "Tailwind",
+                "icon": "icons/tailwing.png"
+            }
+        ]
+    }
+]
